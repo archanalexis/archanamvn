@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>LILY</groupId>
     <artifactId>ITALY</artifactId>
-    <version>4.0</version>
+    <version>5.0</version>
     <packaging>war</packaging>
     <name>LexisDevOps</name>
     <properties>
