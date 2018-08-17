@@ -131,6 +131,11 @@ under the License.
       <username>Sanjay</username>
       <password>sanjay123</password>
     </server>
+    <server>
+      <id>ITALY</id>
+      <username>Sanjay</username>
+      <password>sanjay123</password>
+    </server>
 
     <!-- Another sample, using keys to authenticate.
     <server>
